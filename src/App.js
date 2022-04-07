@@ -87,21 +87,4 @@ const App = () => {
 export default App; 
 
 
-
-// const axios = require("axios");
-
-// const options = {
-//   method: 'GET',
-//   url: 'https://weatherapi-com.p.rapidapi.com/current.json',
-//   params: {q: '<REQUIRED>'},
-//   headers: {
-//     'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com',
-//     'X-RapidAPI-Key': '3ab31d47c0mshe0042f0e0c9e263p104007jsn5d4c5f179d52'
-//   }
-// };
-
-// axios.request(options).then(function (response) {
-// 	console.log(response.data);
-// }).catch(function (error) {
-// 	console.error(error);
-// });
+ 
